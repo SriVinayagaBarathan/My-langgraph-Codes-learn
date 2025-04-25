@@ -1,3 +1,6 @@
+Check out the Learning Training:------>
+ https://academy.langchain.com/courses/take/intro-to-langgraph/texts/58260948-module-2-resources
+
 ![LangChain Academy](https://cdn.prod.website-files.com/65b8cd72835ceeacd4449a53/66e9eba1020525eea7873f96_LCA-big-green%20(2).svg)
 
 ## Introduction
